@@ -1,0 +1,29 @@
+{
+    "add":
+[
+
+    {
+      "id": 1,"name": "Nour Elhouda",
+      "email": "nour@gmail.com",
+      "phone": "0798754126"
+      
+      
+    },
+    {
+        "id": 2,
+        "name": "Rayene",
+        "email": "rayene@gmail.com",
+        "phone": "0698754126"
+        
+        
+      },
+      {
+        "id": 3,
+        "name": "Israa",
+        "email": "israa@gmail.com",
+        "phone": "0587454126"
+        
+        
+      }
+  ]
+}
